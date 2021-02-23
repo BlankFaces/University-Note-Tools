@@ -1,5 +1,5 @@
 # University-Note-Tools
-Tools which I made to make note taking efficiently and less stressful
+Tools which I made to make note taking more efficient and less stressful
 
 ## cap
 This tool converts a PDF file into separate images stored in memory and added to a cherrytree sqlite file to be able to annotate under each slide during a lecture.
